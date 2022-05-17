@@ -1,7 +1,7 @@
 # See-Event-App
-> API : https://api-see-event-teamb.herokuapp.com/event?page=1&limit=8
+**API** : https://api-see-event-teamb.herokuapp.com/event?page=1&limit=8
 
-> Documentation: https://documenter.getpostman.com/view/17965753/UVJWqfVH
+**Documentation**: https://documenter.getpostman.com/view/17965753/UVJWqfVH
 
 > Tech Stack
   - [NodeJS](https://nodejs.org/en/)
